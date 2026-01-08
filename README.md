@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL: (https://github.com/EngrMehwishMughal/Blog-Preview-Card)
+- Live Site URL:(https://engrmehwishmughal.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -98,7 +98,7 @@ I also aim to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Mehwish Mughal](https://engrmehwishmughal.github.io/Blog-Preview-Card/)
 - Frontend Mentor - [@EngrMehwishMughal](https://www.frontendmentor.io/profile/EngrMehwishMughal)
 
 ## Acknowledgments
